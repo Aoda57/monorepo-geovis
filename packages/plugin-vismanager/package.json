@@ -1,0 +1,29 @@
+{
+  "name": "@geovis/plugin-vismanager",
+  "version": "0.0.0",
+  "description": "可视化管理页面",
+  "keywords": [
+    "vismanager"
+  ],
+  "author": "张文静 <2424275819@qq.com>",
+  "homepage": "http://home.vue",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
